@@ -1,0 +1,13 @@
+{
+  "name": "courserabrowse",
+  "title": "CourseraBrowse",
+  "icon": "./data/img/courseraBrowse-logo_48.png",
+  "icon64": "./data/img/courseraBrowse-logo_64.png",
+  "id": "jid1-J7yljMVPIOzN0A",
+  "description": "Browse Coursera course offerings and information through a panel Firefox add-on. No need to leave your current page!",
+  "author": "Nathan D. Hernandez",
+  "version": "0.1.0",
+  "permissions": {
+    "cross-domain-content": ["https://api.coursera.org", "http://api.coursera.org"]
+  } 
+}
