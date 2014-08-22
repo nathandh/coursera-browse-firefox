@@ -6,7 +6,7 @@
   "id": "jid1-J7yljMVPIOzN0A",
   "description": "Browse Coursera course offerings and information through a panel Firefox add-on. No need to leave your current page!",
   "author": "Nathan D. Hernandez",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "permissions": {
     "cross-domain-content": ["https://api.coursera.org", "http://api.coursera.org"]
   } 

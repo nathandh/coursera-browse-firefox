@@ -15,14 +15,14 @@ body {
 	width: 100px;
 	background: #B5C7D2;
 	/*#5F94B8;*/
-	border: 4px solif rgba(33, 65, 70, 0.65);
+	border: 4px rgba(33, 65, 70, 0.65);
 
 	color: rgba(0, 0, 0, 0.85);
 	text-align: center;
 
 	background: linear-gradient(top, #34696f, #2f4f63);
 	border-radius: 15px;
-	box-shadow: 2 2px 0 #235257;
+	box-shadow: 1px 1px 0px #235257;
 	text-shadow: 0 1px 1px rgba(255, 255, 255, 0.1);
 }
 a.button:hover {
